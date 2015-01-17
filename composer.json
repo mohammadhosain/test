@@ -1,5 +1,5 @@
 {
-	"name" : "mohammadhosain/test"
+	"name" : "mohammadhosain/test",
 
 	"autoload" : {
 		"psr-4" : {
