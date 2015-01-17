@@ -1,3 +1,9 @@
 {
 	"name" : "mohammadhosain/test"
+
+	"autoload" : {
+		"psr-4" : {
+			"App\\" : "../app/"
+		}
+	}
 }
